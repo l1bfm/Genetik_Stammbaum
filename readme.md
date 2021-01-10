@@ -5,7 +5,7 @@ __Dieses Programm ist nur für Testzwecke geeignet und sollte nicht zur Bestimmu
 __This program is for testing purposes only and should not be used to determine hereditary diseases. Consult a doctor if you have any questions regarding hereditary diseases.__
 
 ## Handhabung
-Zur Eingabe der Daten nutzen Sie bitte die SQLite-Datenbank (Datei: "db"). Ich empfehele Ihnen dabei das Tool []"DB Browser for SQLite"](https://sqlitebrowser.org)
+Zur Eingabe der Daten nutzen Sie bitte die SQLite-Datenbank (Datei: "db"). Ich empfehele Ihnen dabei das Tool ["DB Browser for SQLite"](https://sqlitebrowser.org)
 Die Ausgabe erfolgt auf stdout.
 
 ## Requirements:
