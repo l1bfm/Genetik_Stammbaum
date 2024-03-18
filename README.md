@@ -19,6 +19,6 @@ Hardware: Skaliert mit Stammbaumgröße, sollte aber sogar auf einem Raspberry P
 
 ## Lizenz und Copyright
 
-(c) 2021 by Florentin Möhle
+(c) 2021-2024 l1bfm
 
 __Lizenz:__ GNU GPL v3
