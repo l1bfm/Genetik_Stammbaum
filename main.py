@@ -2,7 +2,7 @@
 """
 Ein Programm, das den Stammbaum für eine genetisch veranlagte Krankheit ermittelt.
 
-(c) 2020 by Florentin Möhle
+(c) 2020 - 2024 by l1bfm
 """
 import sqlite3, pprint
 krankheit = {'Name': '', 'Dominant-Rezessiv': True, 'Dominant': False, 'Autosomal': True}
